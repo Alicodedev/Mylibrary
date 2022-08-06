@@ -1,7 +1,7 @@
 
-# Preview 
-https://github.com/Alicodedev/library/blob/main/mylibrary.PNG
+# Website Preview 
 
+![alt text](https://github.com/Alicodedev/library/blob/main/mylibrary.PNG)
 # Mylibrary 
 😁 Hi this "library" site is a project that I've been building through Web Dev Simplified youtube playlist Full Stack web development 
 course to gain an understanding of backend development. As this will provide a strong foundation for further web applications 
